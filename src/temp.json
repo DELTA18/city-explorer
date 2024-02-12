@@ -1,0 +1,68 @@
+[
+    {
+      "student_id": 1,
+      "name": "John Smith",
+      "age": 20,
+      "grade": "A",
+      "subjects": ["Math", "Science", "English"],
+      "address": {
+        "street": "123 Main Street",
+        "city": "Anytown",
+        "state": "CA",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "student_id": 2,
+      "name": "Emily Johnson",
+      "age": 21,
+      "grade": "B",
+      "subjects": ["History", "Art", "Physics"],
+      "address": {
+        "street": "456 Elm Street",
+        "city": "Smallville",
+        "state": "NY",
+        "zipcode": "54321"
+      }
+    },
+    {
+      "student_id": 3,
+      "name": "Michael Brown",
+      "age": 19,
+      "grade": "A+",
+      "subjects": ["Chemistry", "Biology", "Spanish"],
+      "address": {
+        "street": "789 Oak Street",
+        "city": "Metro City",
+        "state": "TX",
+        "zipcode": "67890"
+      }
+    },
+    {
+      "student_id": 4,
+      "name": "Emma Davis",
+      "age": 22,
+      "grade": "B-",
+      "subjects": ["Computer Science", "Economics", "Geography"],
+      "address": {
+        "street": "101 Pine Street",
+        "city": "Rural Town",
+        "state": "IL",
+        "zipcode": "13579"
+      }
+    },
+    {
+      "student_id": 5,
+      "name": "William Martinez",
+      "age": 20,
+      "grade": "C",
+      "subjects": ["Physical Education", "Music", "Psychology"],
+      "address": {
+        "street": "222 Maple Street",
+        "city": "Suburbia",
+        "state": "FL",
+        "zipcode": "98765"
+      }
+    }
+  ]
+  

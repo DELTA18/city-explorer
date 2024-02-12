@@ -1,0 +1,10 @@
+.hotel-wrapper{
+    display: flex;
+    background-color: #a62af8;
+    align-items: center;
+    justify-content: center;
+}
+.hotel-80{
+    background-color: #40b069;
+    width: 80vw;
+}

@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.swrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signin{
+    height: 290px;
+    width: 400px;
+    background-color: rgb(43, 41, 41);
+    border: 1px solid rgb(92, 88, 88);
+    box-shadow: 1px 1px 5px 5px rgb(143, 142, 142);
+    border-radius: 5px;
+    
+}
+.signin h1{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    display:block;
+    margin: 5px;
+    color: rgb(240, 241, 240);
+    text-shadow: 1px 1px 2px rgb(232, 78, 78);
+    /* bottom: 50px; */
+
+}
+.stemp{
+        display: flex;
+        margin: 20px;
+        width: 300px;
+        height: 22px;
+        color: black;
+        background-color:rgb(43, 41, 41) ;
+        color: white;
+        position: relative;
+        left: 50px;
+
+}
+/* input allignment */
+.email input{
+    position: relative;
+    left: 43px;
+}
+.phone input{
+    position: relative;
+    left: 21px;
+}
+.username input{
+    position: relative;
+    left: 17px;
+}
+.password input{
+    position: relative;
+    left: 21px;
+}
+/* ------- */
+/* button */
+.button{
+    width: 80px;
+    height: 23px;
+    position: relative;
+    /* left: 165px; */
+    border-radius: 8px;
+    /* border: 2px solid rgb(57, 55, 55) */
+}
+
+/* directing to login */
+
+.logindirect{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 8px;
+    top: 12px;
+}
+.logindirect p{
+    color: rgb(255, 255, 255);
+}
+.logindirect a{
+    color: rgb(103, 231, 86);
+    list-style: none;
+    text-decoration: none;
+    margin: 0px 7px ;
+}

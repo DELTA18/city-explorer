@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+position: relative;
+left: 22vh;
+height: 100vh;
+width: 80vw;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.dcontainer{
+    display: flex;
+    width: 100%;
+    height: 48vh;
+    /* background-color: rgb(66, 66, 66); */
+    /* border: 3px solid black; */
+}
+.minicont{
+    margin: 32px 27px 30px 30px;
+    width: 20%;
+    height: 38vh;
+    display: flex;
+    border: 3px solid white;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+}
+.minicont h1{
+    display: flex;
+    position: relative;
+    z-index: 1;
+    text-shadow: 2px 2px 5px rgb(42, 41, 41) ;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.versovabeach{
+    background-image: url(../../public/versova-beach.webp.jpg);
+    background-size: 100% 100%;
+
+}
